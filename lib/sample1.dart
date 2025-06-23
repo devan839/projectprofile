@@ -40,7 +40,7 @@ class merc extends StatelessWidget {
           Divider(
             thickness: 2,
             color: Colors.white,
-            endIndent: 651,
+            endIndent: 652,
             indent: 650,
           ),
           SizedBox(
